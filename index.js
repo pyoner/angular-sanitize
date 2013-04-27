@@ -533,5 +533,5 @@ angular.module('ngSanitize').filter('linky', function() {
   };
 });
 
-module.exports = angular;
+module.exports = angular.module('ngSanitize');
 })(window, require('angular'));
