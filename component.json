@@ -1,0 +1,16 @@
+{
+  "name": "angular-sanitize",
+  "repo": "pyoner/angular-sanitize",
+  "description": "AngularJS for Component, sanitize module",
+  "version": "1.0.6",
+  "keywords": ["angular", "angularjs", "component", "component.io", "sanitize"],
+  "dependencies": {
+    "pyoner/angular": "1.0.6"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
